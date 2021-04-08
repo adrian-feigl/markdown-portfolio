@@ -1,1 +1,1 @@
-## [LinkedIn](https://www.linkedin.com/)
+[LinkedIn](https://www.linkedin.com/)
