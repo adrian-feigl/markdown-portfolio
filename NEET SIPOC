@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2021-04-21T20:25:55.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="hWdHpEJyy_JKIOcwpoPo" version="14.6.0" type="github">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="3656" dy="6534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="Input" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-2042.81" y="-5028.9" width="660" height="157.82" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-11" value="Tickets to the board&lt;br&gt;&lt;br&gt;Escalations:&lt;br&gt;&amp;nbsp;Chat&lt;br&gt;&amp;nbsp;Board&lt;br&gt;&amp;nbsp;Management&lt;br&gt;&lt;br&gt;Direct chat contact&lt;br&gt;&lt;br&gt;Direct phone contact&lt;br&gt;&lt;br&gt;Direct email contact&lt;br&gt;&amp;nbsp;through ticket&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="dNxyNK7c78bLwvsdeMH5-21" vertex="1">
+          <mxGeometry x="265" y="-221.0999999999999" width="130" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-20" value="Supplier" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-2200" y="-5030.15" width="660" height="160.31" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-12" value="Networking hardware&lt;br&gt;&amp;nbsp;vendors&lt;br&gt;&lt;br&gt;Carrier/ISP providers&lt;br&gt;&lt;br&gt;Cloud providers&lt;br&gt;&lt;br&gt;IT Solutions&lt;br&gt;&lt;br&gt;Hosting providers&lt;br&gt;&lt;br&gt;RMM providers&lt;br&gt;&lt;br&gt;Network security&lt;br&gt;&amp;nbsp;providers&lt;br&gt;&lt;br&gt;Anti-Spam providers&lt;br&gt;&lt;br&gt;Backup providers" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="dNxyNK7c78bLwvsdeMH5-20" vertex="1">
+          <mxGeometry x="265" y="-219.8499999999999" width="130" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-1" value="Process" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-1877.6" y="-5040.12" width="660" height="180.25" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-10" value="ConnectWise Manage&lt;br&gt;&lt;br&gt;SharePoint&lt;br&gt;&lt;br&gt;OneNote&lt;br&gt;&lt;br&gt;Auvik&lt;br&gt;&lt;br&gt;Kaseya&lt;br&gt;&lt;br&gt;Liongard&lt;br&gt;&lt;br&gt;Perch&lt;br&gt;&lt;br&gt;Barracuda&lt;br&gt;&lt;br&gt;Crowdstrike&lt;br&gt;&lt;br&gt;Umbrella&lt;br&gt;&lt;br&gt;Automate - Labtech&lt;br&gt;&lt;br&gt;Mosaic&lt;br&gt;&lt;br&gt;Secret Server&lt;br&gt;&lt;br&gt;360 View&lt;br&gt;&lt;br&gt;Smileback&lt;br&gt;&lt;br&gt;MS Teams&lt;br&gt;&lt;br&gt;MS O365&lt;br&gt;&lt;br&gt;Brainier&lt;br&gt;&lt;br&gt;ADP&lt;br&gt;&lt;br&gt;MS Duo&lt;br&gt;&lt;br&gt;Webex&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;" parent="0GUtDiPAR-7sDzKPf82v-1" vertex="1">
+          <mxGeometry x="265" y="-209.88" width="130" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-3" value="Output" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-1720.48" y="-5020" width="660" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-9" value="Trouble Resolution&lt;br&gt;&lt;br&gt;Consultation:&lt;br&gt;&amp;nbsp;Network Design&lt;br&gt;&amp;nbsp;Best Practices&lt;br&gt;&amp;nbsp;&lt;br&gt;Coaching/Education&lt;br&gt;&lt;br&gt;Overflow:&lt;br&gt;&amp;nbsp;Operations&lt;br&gt;&amp;nbsp;Projects&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;" parent="0GUtDiPAR-7sDzKPf82v-3" vertex="1">
+          <mxGeometry x="274" y="-240" width="116" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-4" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
+          <mxGeometry x="-1575.48" y="-5025" width="660" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-5" value="&lt;span style=&quot;font-size: 13px&quot;&gt;External Clients&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Carrier Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Integration&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Copier/Printer&lt;br&gt;&amp;nbsp;Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Internal Systems&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;IT Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Managed&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Operations&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;" parent="0GUtDiPAR-7sDzKPf82v-4" vertex="1">
+          <mxGeometry x="265" y="-225" width="135" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-8" value="&lt;h1&gt;NEET SIPOC&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1627.6" y="-5350" width="160" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
