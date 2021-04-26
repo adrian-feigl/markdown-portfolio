@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T19:24:05.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="g_hLEtH9JblSx2L-lhQG" version="14.6.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-26T13:11:58.167Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="SSLvzNbehVNbzgqfMXRD" version="14.6.0" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="SIPOC">
-    <mxGraphModel dx="3656" dy="6534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3656" dy="6573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="0GUtDiPAR-7sDzKPf82v-4" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="-1575.48" y="-5025" width="660" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0GUtDiPAR-7sDzKPf82v-5" value="&lt;span style=&quot;font-size: 13px&quot;&gt;External Clients&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Carrier Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Integration&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Copier/Printer&lt;br&gt;&amp;nbsp;Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Internal Systems&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;IT Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Managed&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Operations&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;" parent="0GUtDiPAR-7sDzKPf82v-4" vertex="1">
-          <mxGeometry x="265" y="-225" width="135" height="290" as="geometry" />
+        <mxCell id="0GUtDiPAR-7sDzKPf82v-5" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Marco Clients&lt;br&gt;&lt;/span&gt;&lt;br&gt;Contracted Clients&lt;br&gt;&lt;br&gt;Non-Contracted Clients&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Carrier Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Integration&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Client Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Copier/Printer&lt;br&gt;&amp;nbsp;Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Internal Systems&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;IT Solutions&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Managed&lt;br&gt;&amp;nbsp;Services&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;Operations&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;" parent="0GUtDiPAR-7sDzKPf82v-4" vertex="1">
+          <mxGeometry x="265" y="-250" width="145" height="400" as="geometry" />
         </mxCell>
         <mxCell id="0GUtDiPAR-7sDzKPf82v-8" value="&lt;h1&gt;NEET SIPOC&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1627.6" y="-5350" width="160" height="50" as="geometry" />
@@ -41,7 +41,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nmsmFU7zvIuk8OhYEyKr" name="Process Map">
-    <mxGraphModel dx="1175" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1175" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="5hBcc5WcnC_alGIbPjMc-0" />
         <mxCell id="5hBcc5WcnC_alGIbPjMc-1" parent="5hBcc5WcnC_alGIbPjMc-0" />
